@@ -1,5 +1,6 @@
 package ru.netology.controller;
 
+
 import org.springframework.web.bind.annotation.*;
 import ru.netology.service.PostService;
 import ru.netology.model.Post;

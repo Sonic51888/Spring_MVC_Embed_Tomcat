@@ -22,7 +22,6 @@ public class Post {
         this.removed = removed;
     }
 
-
     public long getId() {
         return id;
     }
